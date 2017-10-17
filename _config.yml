@@ -1,11 +1,11 @@
 # Site settings
-description: "code writer, software architect at @isetbr, open source lover, musician and writer in free hours."
+description: "code writer, software architect at @tiendanube, open source lover, musician and writer in free hours."
 # baseurl: "/will-jekyll-template" # the subpath of your site, e.g. /blog
 url: "http://www.devsdmf.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: devsdmf
-user_description: "code writer, software architect at @isetbr, open source lover, musician and writer in free hours."
+user_description: "code writer, software architect at @tiendanube, open source lover, musician and writer in free hours."
 user_title: devSDMF
 email: devsdmf@gmail.com
 twitter_username:  devsdmf
